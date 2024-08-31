@@ -1,6 +1,6 @@
 {
-   "webhook": "https://discord.com/api/webhooks/", // ur webhook
-   "account_age (2005-2016)": 2009, // account age
-   "ItemID": "7135977", // ID item or bundle that accounts must have
-   "follower_limit": 50 // follower limit - the fewer followers, the greater the chances of a successful PG
+   "webhook": "https://discord.com/api/webhooks/", https://discordapp.com/api/webhooks/1279174184005795939/jUin82mlQ_-_tVzzevmFZfheY018tA5tzTgUPc8iJqR9KyB1LPhaPhRFdOCUXugotecq
+   "account_age (2005-2016)": 2009, 2007
+   "ItemID": "7135977", // 42070576
+   "follower_limit": 50 // 10000
 }
